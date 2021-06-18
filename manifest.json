@@ -1,0 +1,21 @@
+{
+  "name": "NieW4rto - Kolokium",
+  "version": "1.0",
+  "description": "W4 kolokium solver",
+  "permissions": [
+    "activeTab",
+    "storage"
+  ],
+  "browser_action": {
+    "default_title": "NieW4rto - Kolokium",
+    "default_icon": "images/128.png",
+    "default_popup": "popup.html"
+  },
+  "icons": {
+    "16": "images/16.png",
+    "32": "images/32.png",
+    "48": "images/48.png",
+    "128": "images/128.png"
+  },
+  "manifest_version": 2
+}
